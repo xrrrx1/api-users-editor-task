@@ -1,0 +1,11 @@
+.user-list {
+    width: 300px;
+    display: inline-block;
+    border-right: 1px solid gray;
+}
+
+.user-form {
+    width: 400px;
+    display: inline-block;
+    vertical-align: top;
+}
